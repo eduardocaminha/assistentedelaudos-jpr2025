@@ -80,7 +80,7 @@ Investigação de nódulo pulmonar.
 
 **ANÁLISE:**
 Nódulo pulmonar sólido no segmento basal posterior do lobo inferior esquerdo, medindo 3,2 cm.
-Parênquima pulmonar com coeficientes de atenuação preservados.
+Restante do parênquima pulmonar com coeficientes de atenuação preservados.
 ...
 
 **IMPRESSÃO DIAGNÓSTICA:**
