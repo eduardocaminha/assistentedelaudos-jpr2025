@@ -29,11 +29,7 @@ Antes do início do HandsOn, certifique-se de possuir:
 
 - Uma conta Google ativa.
 - Acesso ao [Gemini](https://ai.google.dev/).
-- Os arquivos `prompt_assistente_laudos.txt` e `prompt_neurroradio.txt` contendo os prompts específicos para realização dos testes.
-- Os arquivos `instrucoes_assistente_laudos.txt` e `instrucoes_neurorradio.txt`, disponibilizado durante o curso, contendo as instruções específicas para treinamento do assistente.
-- O arquivo `laudario.txt`, disponibilizado durante o curso, contendo o laudário específico para uso do assistente para geração de laudos.
-- O arquivo `artigo.txt`, para uso do assistente de neurorradiologia, contendo um artigo sobre alterações pós-radioterapia para tumores intracranianos.
-- Todos os arquivos estão disponibilizados no diretório "main" deste GitHub.
+- Todos os arquivos necessários estão disponibilizados no diretório "main" deste GitHub.
 
 ---
 
