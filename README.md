@@ -1,6 +1,6 @@
 # JPR 2025 HandsOn IA: Assistente de Geração de Laudos Radiológicos com Gemini
 
-Este projeto foi desenvolvido como parte do **HandsOn IA da Jornada Paulista de Radiologia (JPR) 2025**, visando capacitar radiologistas na criação de assistentes inteligentes para geração automática e estruturada de laudos radiológicos utilizando a plataforma Gemini do Google.
+Este projeto foi desenvolvido como parte do **HandsOn IA da Jornada Paulista de Radiologia (JPR) 2025**, visando capacitar radiologistas na criação de assistentes inteligentes para geração automática e estruturada de laudos radiológicos e para geração de hipóteses diagnósticas, utilizando a plataforma Gemini do Google.
 
 ---
 
@@ -113,19 +113,28 @@ Imagens de controle após 2 semanas evidenciam redução do realce.
 - Analise a nova resposta do Gemini.
 - Tente mudar o modelo no canto superior esquerdo para ver os resultados.
 
+## (BÔNUS) 3. Integrando os dois agentes em um só
 
-### Teste Prático
+### 3.1. Criando o Assistente
 
-Durante o HandsOn, realizaremos exemplos práticos:
+- Clique em **"Gerenciador de Gem"**.
+- Clique em **"Novo Gem"**
 
-```
-Usuário: Achado: Derrame pleural à direita.
-Gemini: Informe as seguintes informações necessárias:
-1. Indicação clínica detalhada do exame.
-2. Medidas do derrame em centímetros, com uma casa decimal.
-```
+### 3.2. Configurando o Assistente
 
----
+- Nomeie o assistente claramente como "Assistente de laudos e neurorradiologista virtual JPR2025".
+- Localize o campo "Instruções".
+- Abra o arquivo `instrucoes_bonus.txt` e analise o conteúdo.
+- Caso concorde, copie o conteúdo e cole no campo de instruções no Gemini.
+- Carregue os arquivos `artigo.txt` e `laudario.txt` na seção "Conhecimento".
+
+### 3.3. Salvando e Testando
+
+- Clique em **"Atualizar"**.
+- Acesse a aba "Teste" e simule uma interação com o assistente.
+- Abra o arquivo `prompt_bonus.txt` e copie o conteúdo e cole no campo do _chat_, onde está escrito **"Peça ao Gemini"**, e aperte _Enter_.
+- Analise a resposta do Gemini.
+- Tente mudar o modelo no canto superior esquerdo para ver os resultados.
 
 ## Dicas Importantes
 
