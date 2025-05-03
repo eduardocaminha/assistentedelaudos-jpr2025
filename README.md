@@ -33,6 +33,7 @@ Antes do início do HandsOn, certifique-se de possuir:
 - Os arquivos `instrucoes_assistente_laudos.txt` e `instrucoes_neurorradio.txt`, disponibilizado durante o curso, contendo as instruções específicas para treinamento do assistente.
 - O arquivo `laudario.txt`, disponibilizado durante o curso, contendo o laudário específico para uso do assistente para geração de laudos.
 - O arquivo `artigo.txt`, para uso do assistente de neurorradiologia, contendo um artigo sobre alterações pós-radioterapia para tumores intracranianos.
+- Todos os arquivos estão disponibilizados no diretório "main" deste GitHub.
 
 ---
 
@@ -45,9 +46,11 @@ Antes do início do HandsOn, certifique-se de possuir:
 
 ### 1.1. Testando o Gemini 2.0 "cru"
 
-- Abra o arquivo `prompt_assistente_laudos.txt` e analise o conteúdo.
-- Caso concorde, copie o conteúdo e cole no campo do _chat_, onde está escrito **"Peça ao Gemini"**, e aperte _Enter_.
-- Analise a resposta do Gemini.
+- Escreva no campo do _chat_, onde está escrito **"Peça ao Gemini"**, algum achado hipotético visualizado em uma tomografia de tórax que você está laudando.
+- Peça para o Gemini gerar o laudo deste exame incluindo o achado que você relatou.
+- Salve este _prompt_ que você criou em um bloco de notas no seu computador, pois ele será usado novamente mais tarde.
+- Caso não possua conhecimentos médicos, iremos te auxiliar nessa parte.
+- Aperte _Enter_ e analise a resposta do Gemini.
   
 ### 1.2. Criando o Assistente
 
@@ -60,14 +63,14 @@ Antes do início do HandsOn, certifique-se de possuir:
 - Localize o campo "Instruções".
 - Abra o arquivo `instrucoes_assistente_laudos.txt` e analise o conteúdo.
 - Caso concorde, copie o conteúdo e cole no campo de instruções no Gemini.
-- Abra o arquivo `laudario.txt` e analise o conteúdo.
+- Abra o arquivo `laudario.txt`, analise o conteúdo e faça o download do mesmo.
 - Carregue o arquivo `laudario.txt` na seção "Conhecimento".
 
 ### 1.4. Salvando e Testando
 
 - Clique em **"Atualizar"**.
 - Acesse a aba "Teste" e simule uma interação com o assistente.
-- Abra novamente o arquivo `prompt_assistente_laudos.txt` e copie o conteúdo e cole no campo do _chat_, onde está escrito **"Peça ao Gemini"**, e aperte _Enter_.
+- Abra o bloco de notas e copie o seu _prompt_ anterior no campo do _chat_, onde está escrito **"Peça ao Gemini"**, e aperte _Enter_.
 - Analise a nova resposta do Gemini.
 - Após fornecer os dados solicitados, o assistente irá gerar automaticamente o laudo estruturado.
 - Tente mudar o modelo no canto superior esquerdo para ver os resultados.
@@ -81,7 +84,7 @@ Antes do início do HandsOn, certifique-se de possuir:
 
 ![image](https://github.com/user-attachments/assets/0adc2888-96e3-436c-b704-5ea0b0e7e47e) ![image](https://github.com/user-attachments/assets/bcca5861-023c-45ca-86c3-5cc0ae5b3f0a)
 
-Imagem axial FLAIR (esquerda) evidenciando espessamento e alteração de sinal cortical temporo-occipital à direita e T1 pós-contraste (direita) evidencia realce giriforme nessa localização e tênue realce leptomeníngeo.
+Imagem axial FLAIR (acima) evidenciando espessamento e alteração de sinal cortical temporo-occipital à direita e T1 pós-contraste (abaixo) evidencia realce giriforme nessa localização e tênue realce leptomeníngeo.
 
 ![image](https://github.com/user-attachments/assets/f4c082a7-c79c-4a5d-a712-8f119b7b55db) 
 
@@ -103,7 +106,7 @@ Imagens de controle após 2 semanas evidenciam redução do realce.
 - Localize o campo "Instruções".
 - Abra o arquivo `instrucoes_neurorradio.txt` e analise o conteúdo.
 - Caso concorde, copie o conteúdo e cole no campo de instruções no Gemini.
-- Carregue o arquivo `artigo.txt` na seção "Conhecimento".
+- Baixe e carregue o arquivo `artigo.pdf` na seção "Conhecimento".
 
 ### 2.4. Salvando e Testando
 
