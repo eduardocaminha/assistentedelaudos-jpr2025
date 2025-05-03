@@ -311,8 +311,93 @@ Tronco cerebral e cerebelo de aspecto preservado.
 Sistema ventricular com morfologia e dimensões normais.
 Estruturas da linha mediana sem desvios significativos.
 Após a injeção do meio de contraste venoso, não se observaram realces anômalos.
-Seios venosos durais pérvios, sem sinais de trombose.
+
+---
+
+[SEMCONTRASTECOMPARATIVO]
+
+**RESSONÂNCIA MAGNÉTICA DE CRÂNIO**
+
+**INDICAÇÃO:** 
+<inserir indicação aqui, se o usuário não fornecer, pergunte>
+
+**TÉCNICA:**
+Foram realizadas sequências multiplanares ponderadas em T1, T2, FLAIR, difusão e susceptibilidade magnética, sem a injeção endovenosa do gadolínio.
+
+**ANÁLISE:**
+Exame comparativo com a ressonância de <inserir data do exame anterior aqui> evidencia:
+<apenas os achados positivos descritos pelo usuário>
+
+Restante permanece sem alterações evolutivas significativas:
+<aqui todos os achados inalterados em relação ao exame anterior, apenas corrigindo ortografia>
+
+---
+
+[SEMCONTRASTENÃOCOMPARATIVO]
+
+**RESSONÂNCIA MAGNÉTICA DE CRÂNIO**
+
+**INDICAÇÃO:** 
+<inserir indicação aqui, se o usuário não fornecer, pergunte>
+
+**TÉCNICA:** 
+Foram realizadas sequências multiplanares ponderadas em T1, T2, FLAIR, difusão e susceptibilidade magnética, sem a injeção endovenosa do gadolínio.
+
+**ANÁLISE:**
+<substituir as frases abaixo, sem mudar a ordem, apenas com as frases relacionadas a achados positivos dados pelo usuário>
+
+Sulcos e fissuras encefálicos normais.
+Sistema ventricular com forma e dimensões normais.
+Parênquima cerebral com forma e sinal normais.
+Ausência de sinais de isquemia ou hemorragias recentes.
+
 
 **IMPRESSÃO DIAGNÓSTICA:**
-Tomografia computadorizada de crânio sem alterações significativas.
+Ressonância Magnética de crânio sem alterações significativas.
 <inserir aqui a impressão baseada nos achados positivos, caso contrário, manter a frase acima>
+
+---
+
+[COMCONTRASTECOMPARATIVO]
+
+**RESSONÂNCIA MAGNÉTICA DE CRÂNIO**
+
+**INDICAÇÃO:** 
+<inserir indicação aqui, se o usuário não fornecer, pergunte>
+
+**TÉCNICA:** 
+Foram realizadas sequências multiplanares ponderadas em T1, T2, FLAIR, difusão e susceptibilidade magnética. Realizadas também sequências ponderadas em T1 após a injeção endovenosa do gadolínio.
+
+**ANÁLISE:**
+Exame comparativo com a ressonância de <inserir data do exame anterior aqui, se o usuário não fornecer, pergunte> evidencia:
+<apenas os achados positivos descritos pelo usuário>
+
+Restante permanece sem alterações evolutivas significativas:
+<aqui todos os achados inalterados em relação ao exame anterior, apenas corrigindo ortografia>
+
+---
+
+[COMCONTRASTENÃOCOMPARATIVO]
+
+**RESSONÂNCIA MAGNÉTICA DE CRÂNIO**
+
+**INDICAÇÃO:** 
+<inserir indicação aqui, se o usuário não fornecer, pergunte>
+
+**TÉCNICA:** 
+Foram realizadas sequências multiplanares ponderadas em T1, T2, FLAIR, difusão e susceptibilidade magnética. Realizadas também sequências ponderadas em T1 após a injeção endovenosa do gadolínio.
+
+**ANÁLISE:**
+<substituir as frases abaixo, sem mudar a ordem, apenas com as frases relacionadas a achados positivos dados pelo usuário>
+
+Sulcos e fissuras encefálicos normais.
+Sistema ventricular com forma e dimensões normais.
+Parênquima cerebral com forma e sinal normais.
+Ausência de sinais de isquemia ou hemorragias recentes.
+Ausência de realces anômalos após a injeção do gadolínio.
+
+**IMPRESSÃO DIAGNÓSTICA:**
+Ressonância Magnética de crânio sem alterações significativas.
+<inserir aqui a impressão baseada nos achados positivos, caso contrário, manter a frase acima>
+
+---
