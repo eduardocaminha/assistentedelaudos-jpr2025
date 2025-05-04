@@ -28,7 +28,7 @@ Este projeto foi desenvolvido como parte do **HandsOn IA da Jornada Paulista de 
 Antes do início do HandsOn, certifique-se de possuir:
 
 - Uma conta Google ativa.
-- Acesso ao [Gemini](https://ai.google.dev/).
+- Acesso ao [Gemini](https://gemini.google.com/app).
 - Todos os arquivos necessários estão disponibilizados no diretório "main" deste GitHub.
 
 ---
@@ -80,7 +80,7 @@ Antes do início do HandsOn, certifique-se de possuir:
 
 ![image](https://github.com/user-attachments/assets/0adc2888-96e3-436c-b704-5ea0b0e7e47e) ![image](https://github.com/user-attachments/assets/bcca5861-023c-45ca-86c3-5cc0ae5b3f0a)
 
-Imagem axial FLAIR (acima) evidenciando espessamento e alteração de sinal cortical temporo-occipital à direita e T1 pós-contraste (abaixo) evidencia realce giriforme nessa localização e tênue realce leptomeníngeo.
+Imagem axial FLAIR evidenciando espessamento e alteração de sinal cortical temporo-occipital à direita e T1 pós-contraste evidencia realce giriforme nessa localização e tênue realce leptomeníngeo.
 
 ![image](https://github.com/user-attachments/assets/f4c082a7-c79c-4a5d-a712-8f119b7b55db) 
 
@@ -125,7 +125,7 @@ Imagens de controle após 2 semanas evidenciam redução do realce.
 - Localize o campo "Instruções".
 - Abra o arquivo `instrucoes_bonus.txt` e analise o conteúdo.
 - Caso concorde, copie o conteúdo e cole no campo de instruções no Gemini.
-- Carregue os arquivos `artigo.txt` e `laudario.txt` na seção "Conhecimento".
+- Carregue os arquivos `artigo.pdf` e `laudario.txt` na seção "Conhecimento".
 
 ### 3.3. Salvando e Testando
 
