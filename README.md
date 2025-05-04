@@ -64,8 +64,7 @@ Antes do início do HandsOn, certifique-se de possuir:
 
 ### 1.4. Salvando e Testando
 
-- Clique em **"Atualizar"**.
-- Acesse a aba "Teste" e simule uma interação com o assistente.
+- Clique em **"Salvar"** e depois em **"Iniciar conversa"**.
 - Abra o bloco de notas e copie o seu _prompt_ anterior no campo do _chat_, onde está escrito **"Peça ao Gemini"**, e aperte _Enter_.
 - Analise a nova resposta do Gemini.
 - Após fornecer os dados solicitados, o assistente irá gerar automaticamente o laudo estruturado.
@@ -106,8 +105,7 @@ Imagens de controle após 2 semanas evidenciam redução do realce.
 
 ### 2.4. Salvando e Testando
 
-- Clique em **"Atualizar"**.
-- Acesse a aba "Teste" e simule uma interação com o assistente.
+- Clique em **"Salvar"** e depois em **"Iniciar conversa"**.
 - Abra novamente o arquivo `prompt_neurorradio.txt` e copie o conteúdo e cole no campo do _chat_, onde está escrito **"Peça ao Gemini"**, e aperte _Enter_.
 - Analise a nova resposta do Gemini.
 - Tente mudar o modelo no canto superior esquerdo para ver os resultados.
@@ -129,8 +127,7 @@ Imagens de controle após 2 semanas evidenciam redução do realce.
 
 ### 3.3. Salvando e Testando
 
-- Clique em **"Atualizar"**.
-- Acesse a aba "Teste" e simule uma interação com o assistente.
+- Clique em **"Salvar"** e depois em **"Iniciar conversa"**.
 - Abra o arquivo `prompt_bonus.txt` e copie o conteúdo e cole no campo do _chat_, onde está escrito **"Peça ao Gemini"**, e aperte _Enter_.
 - Analise a resposta do Gemini.
 - Tente mudar o modelo no canto superior esquerdo para ver os resultados.
